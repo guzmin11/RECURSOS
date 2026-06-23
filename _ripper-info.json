@@ -1,0 +1,29 @@
+{
+    "source": "https://kitconsultorioludico.vercel.app/",
+    "rippedAt": "2026-06-23T02:07:09+00:00",
+    "files": [
+        "index.html",
+        "_external/cdn.utmify.com.br/scripts/utms/latest.js",
+        "_external/unpkg.com/lucide@latest",
+        "_external/unpkg.com/index.html",
+        "_external/fonts.googleapis.com/css2",
+        "imagens/mockuptudo.webp",
+        "imagens/foto3.webp",
+        "imagens/foto4.webp",
+        "imagens/mockupsembonus.webp",
+        "imagens/dep1.webp",
+        "imagens/dep4.webp",
+        "imagens/dep2.webp",
+        "_external/fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf",
+        "_external/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf",
+        "_external/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf",
+        "_external/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf",
+        "_external/fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5V1s.ttf"
+    ],
+    "errors": [
+        "https://fonts.googleapis.com/: HTTP 404",
+        "https://fonts.gstatic.com/: HTTP 404",
+        "https://kitconsultorioludico.vercel.app/imagens/atv psi: HTTP erro",
+        "https://kitconsultorioludico.vercel.app/imagens/recurso: HTTP 404"
+    ]
+}
